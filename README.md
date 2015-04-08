@@ -3,7 +3,7 @@
 This script was written to process an intacct (timelog) report to combine Coding and QA time from questions of the same type to get true "coding touch time".  
 <em>Note: The script was not designed to work with headers, which were added here for clarity.</em>
 
-<h2>For example</h2>
+<h2>Example</h2>
 <h4>Input</h4>
 <table>
   <tr>
